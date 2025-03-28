@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# excluding the f*cking balatro game files so i don't get copyrighted
+balatro/
